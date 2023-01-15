@@ -14,6 +14,7 @@
 		068B85DA2973D4D600278140 /* WeekList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068B85D92973D4D600278140 /* WeekList.swift */; };
 		068B85DC2973D68000278140 /* WorkoutMondey.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068B85DB2973D68000278140 /* WorkoutMondey.swift */; };
 		068B85DE2973D6B500278140 /* WorkoutTuesday.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068B85DD2973D6B500278140 /* WorkoutTuesday.swift */; };
+		068B85E12973E94800278140 /* FoodsPlan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068B85E02973E94800278140 /* FoodsPlan.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		068B85D92973D4D600278140 /* WeekList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeekList.swift; sourceTree = "<group>"; };
 		068B85DB2973D68000278140 /* WorkoutMondey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkoutMondey.swift; sourceTree = "<group>"; };
 		068B85DD2973D6B500278140 /* WorkoutTuesday.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkoutTuesday.swift; sourceTree = "<group>"; };
+		068B85E02973E94800278140 /* FoodsPlan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodsPlan.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 		068B85D82973D4A500278140 /* FoodsPlan */ = {
 			isa = PBXGroup;
 			children = (
+				068B85E02973E94800278140 /* FoodsPlan.swift */,
 			);
 			path = FoodsPlan;
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				068B85E12973E94800278140 /* FoodsPlan.swift in Sources */,
 				068B85DE2973D6B500278140 /* WorkoutTuesday.swift in Sources */,
 				068B85DA2973D4D600278140 /* WeekList.swift in Sources */,
 				068B85DC2973D68000278140 /* WorkoutMondey.swift in Sources */,

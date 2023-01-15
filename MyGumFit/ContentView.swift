@@ -19,8 +19,7 @@ struct ContentView: View {
                     Label("Тренировки", systemImage: "dumbbell")
                 }
          
-            Text("🎓")
-                .font(.system(size: 300))
+            FoodsPlan()
                 .tag(1)
                 .tabItem{
                     Label("Питание", systemImage: "fork.knife")
