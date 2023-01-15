@@ -59,6 +59,7 @@
 		068B85C62973B3B900278140 /* MyGumFit */ = {
 			isa = PBXGroup;
 			children = (
+				068B85DF2973DFED00278140 /* WorkoutInfo */,
 				068B85CE2973B3BB00278140 /* Preview Content */,
 				068B85D82973D4A500278140 /* FoodsPlan */,
 				068B85D62973B41200278140 /* WorkoutWeek */,
@@ -94,6 +95,13 @@
 			children = (
 			);
 			path = FoodsPlan;
+			sourceTree = "<group>";
+		};
+		068B85DF2973DFED00278140 /* WorkoutInfo */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = WorkoutInfo;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
